@@ -2,7 +2,7 @@
 
 # About the sample
 
-This example illustrates how to sort multiple columns without pressing Ctrl key in DataGrid.
+This example illustrates how to sort multiple columns without pressing Ctrl key in DataGrid?
 
 [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid) allows you to perform the multiple sorting without pressing the Ctrl Key. You can achieve this by using the [SortColumnsChanging](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.SfDataGrid.html#Syncfusion_WinForms_DataGrid_SfDataGrid_SortColumnsChanging) event which will be raised while clicking on the column header to sort the column. You have to cancel the current sorting process and add the new sort column to the [SortColumnDescriptions](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.SfDataGrid.html#Syncfusion_WinForms_DataGrid_SfDataGrid_SortColumnDescriptions) collection.
 
