@@ -41,7 +41,7 @@ private void OnSfDataGrid_SortColumnsChanging(object sender, Syncfusion.WinForms
 
 ![MultiColumn Sorting](MultiColumnSorting.gif)
 
-Take a moment to peruse the [WinForms DataGrid - Sorting documentation](https://help.syncfusion.com/windowsforms/datagrid/sorting), where you can find about sorting with code examples.
+Take a moment to peruse the [WinForms DataGrid - Sorting](https://help.syncfusion.com/windowsforms/datagrid/sorting) documentation, where you can find about sorting with code examples.
 
 ## Requirements to run the demo
 
